@@ -2,7 +2,7 @@ enablePlugins(AndroidApp)
 android.useSupportVectors
 
 name := "shadowsocks"
-version := "4.1.3"
+version := "4.1.3.1"
 versionCode := Some(183)
 
 proguardOptions ++=
