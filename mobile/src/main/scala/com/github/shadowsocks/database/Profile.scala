@@ -38,7 +38,7 @@ class Profile {
   var name: String = ""
 
   @DatabaseField
-  var host: String = "198.199.101.152"
+  var host: String = "198.199.101.122"
 
   // hopefully hashCode = mHandle doesn't change, currently this is true from KitKat to Nougat
   @DatabaseField
